@@ -1,0 +1,106 @@
+[
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifact.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifact.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifact.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifactCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifactCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifactGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifactGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifactPickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifactPickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifactProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifactProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifactWeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\Source\\GOAPArtifact\\GOAPArtifactWeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\GOAPArtifact\\.vscode\\compileCommands_GOAPArtifact\\GOAPArtifact.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
